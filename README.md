@@ -1,2 +1,2 @@
 # Matrices
-Triying to paralellized with my own algorithm the matrices multiplication.
+Just a way to multiply matrices seen them as vectors in C++.
